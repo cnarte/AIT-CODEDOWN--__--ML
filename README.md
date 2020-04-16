@@ -1,11 +1,8 @@
 # AIT-CODEDOWN--__--ML
 
-DAILY LOG 
 
-# CODE-DOWN-2020-Challenge
-A coding challenge to enhance your learning. <br>
- - Our Website : http://www.aitcodedown.in/ <br>
- - Our Blog : http://blog.aitcodedown.in/
+# DAILY LOG 
+
 
 DAY 0 BASICS OF DATA SCIENCE AND DEEP LEARING , AND SELECTED THIS LEARN-FLOW FOR FUTURE :-
       1- NUMPY BASICS
