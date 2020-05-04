@@ -37,6 +37,8 @@ WHAT I TRIED TO DO -:
                    TRING TO GET IT FOR LIVE STREAMING 
                    INTEGRATION TO AN APP (FOR THIS STARTED READING FLASK)
                    FLASK DOCUMENTATION
+                   USING OF PICKLE 
+                   
                    
                   
                    
